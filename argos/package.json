@@ -11,7 +11,7 @@
   },
   "dependencies": {
     "@argos-ci/playwright": "^1.0.1",
-    "@playwright/test": "^1.36.1",
+    "@playwright/test": "^1.44.0",
     "cheerio": "^1.0.0-rc.12"
   }
 }
